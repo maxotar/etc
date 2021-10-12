@@ -1,0 +1,3 @@
+git config --global credential.helper manager-core
+git config --global user.name "Max Tarver"
+git config --global user.email "maxotar@users.noreply.github.com"
